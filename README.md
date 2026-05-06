@@ -2,7 +2,7 @@
 
 Парсит сохранённую страницу выдачи Google по запросу `get taxi`
 с помощью **Node.js + TypeScript** и **только регулярных выражений**
-(без cheerio / jsdom / puppeteer).
+
 
 ## Стек
 
