@@ -25,7 +25,7 @@ npm start
 ```
 
 ## Структура проекта
-
+```
 ├── data/
 │   └── google.html        # сохранённый view-source страницы выдачи
 ├── output/
@@ -35,3 +35,5 @@ npm start
 ├── package.json
 ├── tsconfig.json
 └── README.md
+```
+
